@@ -1,4 +1,5 @@
 import requests
+import sys
 
 url      = 'https://dal09-gateway.watsonplatform.net/instance/561/deepqa/v1/question'
 username = 'YOUR_USERNAME_HERE'
